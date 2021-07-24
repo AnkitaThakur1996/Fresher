@@ -204,6 +204,9 @@ body {
 .menu-li {
     margin-right: 0px;
 }
+.menu-li:hover{
+background-color:#fff;
+}
 .fa.fa-bars{
     font-size: 24px;
 }
